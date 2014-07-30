@@ -1,0 +1,13 @@
+{
+  "node": true,
+  "unused": true,
+  "undef": true,
+  "trailing": true,
+  "expr": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "beforeEach": false,
+    "afterEach": false
+  }
+}
