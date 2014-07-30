@@ -40,7 +40,7 @@ source.end({ foo: i });
 
 ## API
 
-### var clump = transformclump(size)
+### var clump = transformClump(size)
 
 Initialise a new `TransformClump` with the given `size`.
 
