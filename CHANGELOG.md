@@ -1,3 +1,7 @@
+## v1.0.1 / 2014-10-14
+
+ * ([601eaa1](https://github.com/tanem/transform-clump/commit/601eaa13c064429626f0c98613ffd688cd546a48)) Add commit links to changelog (fixes [#1](https://github.com/tanem/transform-clump/issues/1))
+
 ## v1.0.0 / 2014-09-15
 
  * ([6d3e36a](https://github.com/tanem/transform-clump/commit/6d3e36a255f81282c228b111f872cd3c0a6b8e86)) v1.0.0
