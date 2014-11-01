@@ -6,13 +6,11 @@
 
 A transform stream that clumps data into an array of a specified size. The oldest items in the array are replaced by the newer items as they stream in.
 
-
 ## Installation
 
-```sh
+```
 $ npm install transform-clump --save
 ```
-
 
 ## Example
 
@@ -37,26 +35,23 @@ for (var i = 0, j = 5; i < j; i++) source.push({ foo: i });
 source.end({ foo: i });
 ```
 
-
 ## API
 
 ### var clump = transformClump(size)
 
 Initialise a new `TransformClump` with the given `size`.
 
-
 ## Testing
 
-```sh
+```
 $ make test
 ```
 
 To generate a coverage report:
 
-```sh
+```
 $ make test-cov
 ```
-
 
 ## Credits
 
