@@ -1,3 +1,7 @@
+## v1.0.3 / 2014-11-20
+
+ * ([2d480fd](https://github.com/tanem/transform-clump/commit/2d480fd945cdf92e666e36b39e9e6b5e73cb23fb)) Update README
+
 ## v1.0.2 / 2014-11-01
 
  * ([fadf995](https://github.com/tanem/transform-clump/commit/fadf99535056819d8bf22b6bb110a45780d64ede)) Tidy up README
