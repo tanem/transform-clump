@@ -1,3 +1,7 @@
+## v1.0.4 / 2015-03-07
+
+ * ([7329321](https://github.com/tanem/transform-clump/commit/7329321057c9b2a4e77ba828ab3c389fb7c595ec)) Use npm scripts instead of a Makefile
+
 ## v1.0.3 / 2014-11-20
 
  * ([2d480fd](https://github.com/tanem/transform-clump/commit/2d480fd945cdf92e666e36b39e9e6b5e73cb23fb)) Update README
