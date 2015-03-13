@@ -1,6 +1,6 @@
 {
   "name": "transform-clump",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A transform stream that returns clumps of data.",
   "main": "index.js",
   "homepage": "https://github.com/tanem/transform-clump",
