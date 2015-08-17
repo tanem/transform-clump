@@ -8,7 +8,7 @@ A transform stream that clumps data into an array of a specified size. The oldes
 
 ## Installation
 
-```sh
+```
 $ npm install transform-clump --save
 ```
 
@@ -43,16 +43,20 @@ Initialise a new `TransformClump` with the given `size`.
 
 ## Testing
 
-```sh
+```
 $ make test
 ```
 
 To generate a coverage report:
 
-```sh
+```
 $ make test-cov
 ```
 
 ## Credits
 
  * [urlgrey](https://github.com/cainus/urlgrey) for the Makefile inspiration.
+
+## License
+
+MIT
